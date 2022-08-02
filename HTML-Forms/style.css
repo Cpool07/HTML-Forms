@@ -1,0 +1,22 @@
+div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+div input {
+    width: 200px;
+    margin: 5px;
+}
+div label {
+    width: 200px;
+    margin: 5px;
+}
+div button {
+    width: 200px;
+    margin: 5px;
+}    
+body {
+    padding: 10px;
+  }
+
+  
